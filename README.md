@@ -1,6 +1,6 @@
 <h2 style="font-weight:bold">
 Hi there 👋 I'm Dileesha Lakshan 
-<h2>
+</h2>
 
 
 - 🌱 I’m currently learning ...
