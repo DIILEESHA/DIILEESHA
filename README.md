@@ -1,5 +1,5 @@
 Hi there 👋 I'm Dileesha Lakshan 
-<hr>
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
