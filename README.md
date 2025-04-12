@@ -6,6 +6,6 @@ Hi there 👋 I'm Dileesha Lakshan
 </p>
 <hr>
 - 🌱 I’m currently learning Web Development <br/>
-- 📫 Reach Me <a href="mailto:hello@dileeshanawarathna.me">hello@dileeshanawarathna.me</a> <br/>
-- 💼 Portfolio: <a href="https://dileeshanawarathna.me">dileeshanawarathna.me</a>
+<!-- - 📫 Reach Me <a href="mailto:hello@dileeshanawarathna.me">hello@dileeshanawarathna.me</a> <br/> -->
+- 💼 Portfolio: <a href="https://dileeshanawarathna.com">dileeshanawarathna.com</a>
 <hr>
